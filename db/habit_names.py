@@ -8,5 +8,4 @@ habits = [
     Habit('reading', 'daily'),
     Habit('weekly planning', 'weekly'),
     Habit('eating healthy', 'daily'),
-    Habit('smoking', 'weekly'),
 ]
